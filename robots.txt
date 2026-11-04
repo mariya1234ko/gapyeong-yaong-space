@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /gapyeong-yaong-space/
+Sitemap: https://mariya1234ko.github.io/gapyeong-yaong-space/sitemap.xml
