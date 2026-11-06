@@ -1,6 +1,82 @@
 {
-  "cats": [],
-  "garden": [],
-  "interior": [],
-  "kitchen": []
+  "cats": [
+    {
+      "thumb": "images/cats/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-thumb.webp",
+      "display": "images/cats/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-display.webp",
+      "large": "images/cats/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 1"
+    },
+    {
+      "thumb": "images/cats/Gapyong Cat House Countryside Homepage 2-bd98efd5-thumb.webp",
+      "display": "images/cats/Gapyong Cat House Countryside Homepage 2-bd98efd5-display.webp",
+      "large": "images/cats/Gapyong Cat House Countryside Homepage 2-bd98efd5-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 2"
+    },
+    {
+      "thumb": "images/cats/Gapyong Cat House Countryside Homepage 3-19fde506-thumb.webp",
+      "display": "images/cats/Gapyong Cat House Countryside Homepage 3-19fde506-display.webp",
+      "large": "images/cats/Gapyong Cat House Countryside Homepage 3-19fde506-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 3"
+    }
+  ],
+  "garden": [
+    {
+      "thumb": "images/garden/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-thumb.webp",
+      "display": "images/garden/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-display.webp",
+      "large": "images/garden/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 1"
+    },
+    {
+      "thumb": "images/garden/Gapyong Cat House Countryside Homepage 2-bd98efd5-thumb.webp",
+      "display": "images/garden/Gapyong Cat House Countryside Homepage 2-bd98efd5-display.webp",
+      "large": "images/garden/Gapyong Cat House Countryside Homepage 2-bd98efd5-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 2"
+    },
+    {
+      "thumb": "images/garden/Gapyong Cat House Countryside Homepage 3-19fde506-thumb.webp",
+      "display": "images/garden/Gapyong Cat House Countryside Homepage 3-19fde506-display.webp",
+      "large": "images/garden/Gapyong Cat House Countryside Homepage 3-19fde506-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 3"
+    }
+  ],
+  "interior": [
+    {
+      "thumb": "images/interior/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-thumb.webp",
+      "display": "images/interior/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-display.webp",
+      "large": "images/interior/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 1"
+    },
+    {
+      "thumb": "images/interior/Gapyong Cat House Countryside Homepage 2-bd98efd5-thumb.webp",
+      "display": "images/interior/Gapyong Cat House Countryside Homepage 2-bd98efd5-display.webp",
+      "large": "images/interior/Gapyong Cat House Countryside Homepage 2-bd98efd5-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 2"
+    },
+    {
+      "thumb": "images/interior/Gapyong Cat House Countryside Homepage 3-19fde506-thumb.webp",
+      "display": "images/interior/Gapyong Cat House Countryside Homepage 3-19fde506-display.webp",
+      "large": "images/interior/Gapyong Cat House Countryside Homepage 3-19fde506-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 3"
+    }
+  ],
+  "kitchen": [
+    {
+      "thumb": "images/kitchen/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-thumb.webp",
+      "display": "images/kitchen/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-display.webp",
+      "large": "images/kitchen/Gapyong Cat House Countryside Homepage 1-f7ef9d5a-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 1"
+    },
+    {
+      "thumb": "images/kitchen/Gapyong Cat House Countryside Homepage 2-bd98efd5-thumb.webp",
+      "display": "images/kitchen/Gapyong Cat House Countryside Homepage 2-bd98efd5-display.webp",
+      "large": "images/kitchen/Gapyong Cat House Countryside Homepage 2-bd98efd5-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 2"
+    },
+    {
+      "thumb": "images/kitchen/Gapyong Cat House Countryside Homepage 3-19fde506-thumb.webp",
+      "display": "images/kitchen/Gapyong Cat House Countryside Homepage 3-19fde506-display.webp",
+      "large": "images/kitchen/Gapyong Cat House Countryside Homepage 3-19fde506-large.webp",
+      "alt": "Gapyong Cat House Countryside Homepage 3"
+    }
+  ]
 }
