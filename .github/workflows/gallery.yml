@@ -1,4 +1,6 @@
+
 name: Build photo galleries
+
 on:
   push:
     branches: [main]
@@ -7,18 +9,24 @@ on:
       - 'scripts/build_gallery.py'
       - '.github/workflows/gallery.yml'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - run: pip install Pillow==11.3.0
+
       - run: python scripts/build_gallery.py
+
       - name: Commit generated photos
         run: |
           git config user.name 'github-actions[bot]'
@@ -27,3 +35,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m 'Update optimized photo galleries'
             git push
+          fi
